@@ -1,4 +1,4 @@
-# CLIvia generator
+# Clivia generator
 
 ## Start the program
 
